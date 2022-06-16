@@ -1,0 +1,22 @@
+{
+  "name": "jesting",
+  "version": "0.0.0",
+  "description": "Learning about jest, node, and npm",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b-hayes/jesting.git"
+  },
+  "author": "b-hayes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b-hayes/jesting/issues"
+  },
+  "homepage": "https://github.com/b-hayes/jesting#readme"
+}
