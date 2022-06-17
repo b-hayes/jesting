@@ -9,14 +9,15 @@
   "scripts": {
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/b-hayes/jesting.git"
-  },
+  "repository": "git+https://github.com/b-hayes/jesting.git",
   "author": "b-hayes",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/b-hayes/jesting/issues"
   },
-  "homepage": "https://github.com/b-hayes/jesting#readme"
+  "homepage": "https://github.com/b-hayes/jesting#readme",
+  "private": true,
+  "devDependencies": {
+    "jest": "24"
+  }
 }
